@@ -1,0 +1,13 @@
+name = "Sable Beyond"
+filename = "sablebeyond-neoforge-1.21.1-v0.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PrW3B4fH/versions/5veGxmC8/sablebeyond-neoforge-1.21.1-v0.4.2.jar"
+hash-format = "sha512"
+hash = "140559fb1f0c73e799906b7a54ec41e9473b5f1e6d74fab936e82f6f97c3544e8d46acb1cd2c7f5a7beced165f8a372006cbca36d6c12264cac93f9f6cc0e565"
+
+[update]
+[update.modrinth]
+mod-id = "PrW3B4fH"
+version = "5veGxmC8"

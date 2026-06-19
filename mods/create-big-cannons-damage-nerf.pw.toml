@@ -1,0 +1,13 @@
+name = "Create Big Cannons: Damage Nerf"
+filename = "cbc_damage_nerf_1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UciTwDe0/versions/DQRvOAiU/cbc_damage_nerf_1.1.jar"
+hash-format = "sha512"
+hash = "aac0869bc126b142f63806944d399d0085dbbd11cf7a8125136ada0b1cc2490b84ddbfee953a07907f66eac1a13b1201480c69e32af6cdd3a3b5360027c4e835"
+
+[update]
+[update.modrinth]
+mod-id = "UciTwDe0"
+version = "DQRvOAiU"

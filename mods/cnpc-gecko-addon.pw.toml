@@ -1,0 +1,13 @@
+name = "CNPC-Gecko-Integration"
+filename = "CNPC-Gecko-Addon-NeoForge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c28ab59f29c5de3371f31866ce940924d3f200f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7272203
+project-id = 970162

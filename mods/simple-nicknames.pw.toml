@@ -1,0 +1,13 @@
+name = "Simple Nicknames"
+filename = "simplenicknames-1.21.1-neoforge-0.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EmdnQtis/versions/U5pPeaqv/simplenicknames-1.21.1-neoforge-0.5.1.jar"
+hash-format = "sha512"
+hash = "108be516761324fa6e82b1d3adcaa660d4cca34fa3fc638956c8e9d60540ae37218791422ef9240eb20f8b729a1034cc8320b13e11f8c49c68c141b0ae9e0728"
+
+[update]
+[update.modrinth]
+mod-id = "EmdnQtis"
+version = "U5pPeaqv"

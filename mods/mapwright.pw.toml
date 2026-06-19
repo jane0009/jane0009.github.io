@@ -1,0 +1,13 @@
+name = "Mapwright"
+filename = "mapwright-neoforge-1.21.1-1.0.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iDYmMWwn/versions/xL1qDNc2/mapwright-neoforge-1.21.1-1.0.6.jar"
+hash-format = "sha512"
+hash = "548661588d13dadcb1ebdc251d5b80560194f0d4f53a2dd606c2eb7751eaef0a8736ad3eabacc00b49d5616cfeec980b5092563de5ba6eeae097204a9a00dd02"
+
+[update]
+[update.modrinth]
+mod-id = "iDYmMWwn"
+version = "xL1qDNc2"
