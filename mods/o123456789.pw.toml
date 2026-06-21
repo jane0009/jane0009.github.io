@@ -1,0 +1,13 @@
+name = "O123456789"
+filename = "O123456789-neoforge-2.2+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mb82UnNK/versions/6lpSdiMe/O123456789-neoforge-2.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "7cae501fca8f03e4f4e368031c8e42d331476549fc44fbb78caf43b625c5aeef829739e9316b992e205f186e4de1b0b8f8343f33258a5c968106c1bbc5d9519c"
+
+[update]
+[update.modrinth]
+mod-id = "Mb82UnNK"
+version = "6lpSdiMe"

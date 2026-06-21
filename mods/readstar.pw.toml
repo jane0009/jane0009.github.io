@@ -1,0 +1,13 @@
+name = "ReadStar"
+filename = "readstar-0.4.4-neoforge+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q5O7wOwB/versions/mBF0VCAN/readstar-0.4.4-neoforge%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "3d213784cc333955398004c3ee47b64ba0c1a73890df42890fe02e207efd9a1bca25c07dc69f8307355492c8fd24231af6fd8127ee648b6ca678a575173489a8"
+
+[update]
+[update.modrinth]
+mod-id = "Q5O7wOwB"
+version = "mBF0VCAN"

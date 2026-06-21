@@ -1,0 +1,13 @@
+name = "Iron's RPG Tweaks"
+filename = "irons_rpg_tweaks-2.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/otXdBiS4/versions/Jr3863n3/irons_rpg_tweaks-2.2.3.jar"
+hash-format = "sha512"
+hash = "95c46d035ec9b2adba7a290ebfe01bd8d14b588071487e06b2ec1bb34b05fc085a9b1cbc5d9c216f9bbf7d4071c5541c37d932341acb4fb41550df3666abcbd2"
+
+[update]
+[update.modrinth]
+mod-id = "otXdBiS4"
+version = "Jr3863n3"

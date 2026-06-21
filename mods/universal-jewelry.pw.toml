@@ -1,0 +1,13 @@
+name = "Universal Jewelry"
+filename = "universaljewelry-2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/RDOWziKW/versions/TOo6821K/universaljewelry-2.0.jar"
+hash-format = "sha512"
+hash = "3593902b5a2a26a33ac0d3b954d74951fe90e3559995950514186d17589c72efd8df22d5f71fa8d0a8a47609b9a045836ce36efc2422fba7b3d4539215ecca3d"
+
+[update]
+[update.modrinth]
+mod-id = "RDOWziKW"
+version = "TOo6821K"
