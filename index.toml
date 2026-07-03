@@ -795,6 +795,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/astrocraft.pw.toml"
+hash = "ca03f3d49a4b330ce431a9bfa4aa6b9ef879fd2983d944e9c3a81752ca258887"
+metafile = true
+
+[[files]]
 file = "mods/atlas-api.pw.toml"
 hash = "8c6d5170ca4f3e42a3ff45ec2891a24fef98ab136f3e427fc34af23564d9e7dc"
 metafile = true
@@ -1195,6 +1200,11 @@ hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
+metafile = true
+
+[[files]]
 file = "mods/gabous-libs.pw.toml"
 hash = "13023f6ee3bcd847f2299fd4adc89ecfa802b9e9902662c640c634f7a68a9728"
 metafile = true
@@ -1300,6 +1310,11 @@ hash = "65d7dbf55554eea06332064358bfe6c30f329fed683679b95603c0168a893b07"
 metafile = true
 
 [[files]]
+file = "mods/kitchen-projectiles.pw.toml"
+hash = "08d213b75eef56d756d5e1132058652bb2f64319c40ad17912332496e621e53b"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "c8467cb6639000d1be9e801702e028fd2ce9c0dce6f35e1be4c9264667c9efe6"
 metafile = true
@@ -1337,6 +1352,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
+metafile = true
+
+[[files]]
+file = "mods/legendary-titles.pw.toml"
+hash = "71624699184622c6656fc47147d142f087fc041eb26b0ca42cd92cb85faab4dc"
 metafile = true
 
 [[files]]
@@ -1540,11 +1560,6 @@ hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]
-file = "mods/readstar.pw.toml"
-hash = "f8394eafbb8113a33de12779171e81f2ebdafe31a8ecd5a5b828d4fdf2d9856f"
-metafile = true
-
-[[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "e14677e4e666a43564e6d60bc5bb3463a1a90a53c92267e6e76fb47eff561670"
 metafile = true
@@ -1597,6 +1612,11 @@ metafile = true
 [[files]]
 file = "mods/sablecompat.pw.toml"
 hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
+metafile = true
+
+[[files]]
+file = "mods/scorched-guns-neoforged.pw.toml"
+hash = "46ccb3613d536a36b42f37c8ed3f28eff20a63f44bdd6b733e3bd6b75978fdad"
 metafile = true
 
 [[files]]

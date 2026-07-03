@@ -1,0 +1,13 @@
+name = "Legendary Titles"
+filename = "legendarytitles-neo-1.21.1-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vNk1Fan4/versions/H7mJ5ArZ/legendarytitles-neo-1.21.1-1.0.8.jar"
+hash-format = "sha512"
+hash = "71e2aac6069f659be162763dc2e6e8104fc5d505848c15a507fc9318ef277b47c8c649e849acd6c95a020fd28e20261dcb1928accb7a85a5f42f6af7e34f2fda"
+
+[update]
+[update.modrinth]
+mod-id = "vNk1Fan4"
+version = "H7mJ5ArZ"
