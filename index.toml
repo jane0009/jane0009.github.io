@@ -820,8 +820,18 @@ hash = "ba58df8c82fc920a316a3ad2f8d52e985e34cd09713487ccbb5ea778b6168c2d"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
+metafile = true
+
+[[files]]
 file = "mods/burnt.pw.toml"
 hash = "e7a3d24405fe48ec8268c9810483667be7028a80dfe973c41343b29bcaf9eeff"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "f659dbb9510a5eefe8a5d9e7a0941b313ba5b91c7b8ee24b9e118aa01e01195c"
 metafile = true
 
 [[files]]
@@ -1300,6 +1310,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-additions.pw.toml"
+hash = "130cf40b3f297f7388c71fd628ed0e0c582f22af53b5a3c4df1f9d65be8389b9"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
 metafile = true
@@ -1430,6 +1445,11 @@ hash = "2d25de0bff17e1474077f86318aae39df0857fb0799a0848a7db38c50a4595ad"
 metafile = true
 
 [[files]]
+file = "mods/nyctography.pw.toml"
+hash = "fb06fdc9f795e170942dbd1a6e2160b6a0f322aa02873e79c3a830b7fedcca34"
+metafile = true
+
+[[files]]
 file = "mods/o123456789.pw.toml"
 hash = "426ab13bdd2e2fe1853d66975d4d3245eda914a306d9a632fd4387e2d728ae1c"
 metafile = true
@@ -1465,6 +1485,11 @@ hash = "1ef7ce6d5fe6e584914680f5463508996f0dd1c2bdbc051b8b3b050c85e134ff"
 metafile = true
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "a94365e00ca989024c7d33d1d21ab498bc57c63d60ce736fca65f06239e98e13"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "2ccda92b6f9f4dae045fe05e57d3a1a4965b81e983006f17d75e83b464c240c9"
 metafile = true
@@ -1497,6 +1522,11 @@ metafile = true
 [[files]]
 file = "mods/pretty-rain.pw.toml"
 hash = "8319748b7c1a39462d159ed94da5c972b99958628c776be8d7c1e4c48fdaa5eb"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
@@ -1537,6 +1567,11 @@ metafile = true
 [[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "179aab033baae257dbc270e5e81c67202b6533df97e50b33e7d9653187b0f71e"
 metafile = true
 
 [[files]]
