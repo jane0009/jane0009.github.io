@@ -861,7 +861,7 @@ metafile = true
 
 [[files]]
 file = "mods/cbcperipheral.pw.toml"
-hash = "08445928f48420d77f459d497ba6be84e2fbce65cd45328e89df901bf1d6df11"
+hash = "f816bb7867f0eac5f0506cb1d42da974c20b52bc189c37fddf0087f871df1baa"
 metafile = true
 
 [[files]]
@@ -1001,7 +1001,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cc-total-logistics.pw.toml"
-hash = "0e8eb610e3fa9fc7d7897dd24ac43872ead64ddea9e6b5da2a2730d21892f2fd"
+hash = "498118d8d811270df4b778dfc2834ede888a3183b96ad1d9d0dfddcf56a38ed1"
 metafile = true
 
 [[files]]
@@ -1186,7 +1186,7 @@ metafile = true
 
 [[files]]
 file = "mods/fens-mmorpg-titles.pw.toml"
-hash = "11a157579faca5b43db2e4bc612383ea6ae6e4ab9c79dd4418a5f632a3215931"
+hash = "ed1db62d522f238252f8e9fa6fd035657a8dacafc2f9e36b4bbfb19807c0d509"
 metafile = true
 
 [[files]]
@@ -1241,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-snow.pw.toml"
-hash = "759ebd337fa67f558a204baef57041ca0392fd206c786a3e7643a5c6b27f4cee"
+hash = "c8f17b808582f80a8afe90f44844ae83965afe6372c572ac5a27d595ad8c59b0"
 metafile = true
 
 [[files]]
@@ -1411,7 +1411,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootjs.pw.toml"
-hash = "9b32e1374a3d85ccdd4803c8932f72fbeb6357e69d895980e3f24e1974a07ca6"
+hash = "e42581d8eb65aa947dcbe6edb71b2082e84f31936b01f131758395d88dabc919"
 metafile = true
 
 [[files]]
@@ -1486,7 +1486,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-delight.pw.toml"
-hash = "ab2cff38a5f58e46582ee8c87cc1aa8ea2248b8e174d3a3ffd3f8bd5530dac2f"
+hash = "235fe34fc17d09f0430f3aed7e1a3cef2d3375a599e6da15f74367d1a615ffe0"
 metafile = true
 
 [[files]]
@@ -1641,7 +1641,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable-weighted-create-deco.pw.toml"
-hash = "54a090b46698cc6330f65739b82983508850c15596bac67da651176b6aa9feae"
+hash = "db5ecf915997147c3811e1118f0b31535c92e96fd92b84b4bae574f17089c142"
 metafile = true
 
 [[files]]
@@ -1656,7 +1656,7 @@ metafile = true
 
 [[files]]
 file = "mods/sablecompat.pw.toml"
-hash = "753db312dde944dc4278569734f2d14a7e47a9344946de3cf3b10c601ecd9764"
+hash = "b9ceb0fa4707ced2e0467f334ce8b6cb2fd60c729b47aee065e2bb0d5b905189"
 metafile = true
 
 [[files]]
@@ -1676,7 +1676,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-chat-sync.pw.toml"
-hash = "3b4e286fab828d142e2db5c748f31344df72860fd73fc3f26141ffbcd439a97c"
+hash = "c5fd50416e7cabd4c5c69cd527ab9d2d8f5adbb30046501e7340526e232b16de"
 metafile = true
 
 [[files]]
@@ -1806,7 +1806,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-jewelry.pw.toml"
-hash = "6348d02e3e4367edc4ab37764b4acd96b02633a6d040d9cf0724c011cc514396"
+hash = "6dd94753af49b9bdc32f8c2938ed03c0436e41c571f411837d6a6d22d73096a9"
 metafile = true
 
 [[files]]
@@ -1841,7 +1841,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-caves.pw.toml"
-hash = "9bd04b84287a7ceaae9333f87bb4ca3741506ac7bc2851174f5bc1dd4e3dcc70"
+hash = "31ae9ae93a8e3020278dd846c58d3376f53d2f90e2f0e8a25eab81029e2e8604"
 metafile = true
 
 [[files]]

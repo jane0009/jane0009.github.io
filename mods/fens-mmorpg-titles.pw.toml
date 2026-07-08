@@ -1,6 +1,6 @@
 name = "Fen's RPG Titles"
 filename = "mmorpgtitles-2.3.3-neoforge1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/z9yZ1KxT/versions/oDZLqse7/mmorpgtitles-2.3.3-neoforge1.21.1.jar"

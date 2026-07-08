@@ -1,6 +1,6 @@
 name = "Universal Jewelry"
 filename = "universaljewelry-2.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/RDOWziKW/versions/TOo6821K/universaljewelry-2.0.jar"
