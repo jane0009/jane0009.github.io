@@ -1,0 +1,13 @@
+name = "Coins JE"
+filename = "coinsje-neoforge-1.21.1-21.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b8aQgkOD/versions/2Frbk2Dt/coinsje-neoforge-1.21.1-21.1.2.jar"
+hash-format = "sha512"
+hash = "23dc4c258b1d57eb3fa4c16685c921d3bb52deed158a4ebcc966084a3b4058bb63311565aeabc9721a6b71a6b01ab90422a747103cf9a5705cf5a11da00c4395"
+
+[update]
+[update.modrinth]
+mod-id = "b8aQgkOD"
+version = "2Frbk2Dt"

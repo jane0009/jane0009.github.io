@@ -1,0 +1,13 @@
+name = "Iron's Spellbooks Tweaks"
+filename = "irons_spellbooks_tweaks-1.5.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Km6YZ1yF/versions/DoI0OSD6/irons_spellbooks_tweaks-1.5.0.jar"
+hash-format = "sha512"
+hash = "dfe3f9e25761e9bc404f421465e7393eb48527db5e599a7341c7ad816e36416afafc0c52f5e58608b12b7dcbfba3ec6c2b17f9fcc28e991bd737d628a7f5f2e6"
+
+[update]
+[update.modrinth]
+mod-id = "Km6YZ1yF"
+version = "DoI0OSD6"
