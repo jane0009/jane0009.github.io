@@ -1,13 +1,13 @@
 name = "Block Pack"
-filename = "bf_blockpack-neoforge-1.21.1-1.0.10.jar"
+filename = "bf_blockpack-neoforge-1.21.1-1.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/An633Gxh/versions/65ovLUc8/bf_blockpack-neoforge-1.21.1-1.0.10.jar"
+url = "https://cdn.modrinth.com/data/An633Gxh/versions/vjxJltES/bf_blockpack-neoforge-1.21.1-1.0.11.jar"
 hash-format = "sha512"
-hash = "c2541961e7e01c47aacba4e93fd506fb9273c9771f03dcf08680b7b3b5f8c053bff8f96d5e45629378ae11e545444c39b555a1984862f2ab1d0406018fdd71cd"
+hash = "4e94653f443be68614ef059ca0aa081287561ca4918ef4716de3cb93aa5f4216a6574989bc6e216dda4f86b65ad8057af31476b98eed85be2eb21626f68df938"
 
 [update]
 [update.modrinth]
 mod-id = "An633Gxh"
-version = "65ovLUc8"
+version = "vjxJltES"
