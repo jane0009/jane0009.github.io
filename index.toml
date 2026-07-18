@@ -1345,11 +1345,6 @@ hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
 metafile = true
 
 [[files]]
-file = "mods/inventorio.pw.toml"
-hash = "2b2538384685dd04fd0c8fa115539daf401f95ebc4f4399224ac86316789527f"
-metafile = true
-
-[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
 metafile = true
@@ -1517,6 +1512,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "f0c66fc8c3d9dbea2704b007e79125377d50484ff3a40c280b48707659209045"
 metafile = true
 
 [[files]]
@@ -1980,13 +1980,13 @@ hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
 metafile = true
 
 [[files]]
-file = "mods/via-romana.pw.toml"
-hash = "d96fe12674f0a9d208ab683e0799542b03ddfd9b17bd89996f3fca73dd3df2dd"
+file = "mods/vista_tv.pw.toml"
+hash = "000f11dff1ecc83fe66c6a998cf94e583cdce2ea3cc7ece7f66d7fc91cad7936"
 metafile = true
 
 [[files]]
-file = "mods/vista_tv.pw.toml"
-hash = "000f11dff1ecc83fe66c6a998cf94e583cdce2ea3cc7ece7f66d7fc91cad7936"
+file = "mods/wakes-reforged.pw.toml"
+hash = "aae5db2e86db9afbf6a56991ea436a04807663209a9f849e4fc538193d730fc8"
 metafile = true
 
 [[files]]
