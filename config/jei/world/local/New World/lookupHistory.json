@@ -1,0 +1,19 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create_optical:zinc_coil"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_optical:rose_quartz_catalyst_coil"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"netherexp:netherite_plating"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdeco:iron_coin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdeco:iron_coinstack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeroworks:gyroscope"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"iss_magicfromtheeast:deepslate_jade_ore"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"iss_magicfromtheeast:jade_ore"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"iss_magicfromtheeast:jade_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"iss_magicfromtheeast:jade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"iss_magicfromtheeast:yin_yang_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"customnpcs:npcscripted"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"traveloptics:void_spellweave_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cataclysm_spellbooks:technomancy_upgrade_orb"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"scguns:scrap_chestplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"scguns:treated_brass_chestplate"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

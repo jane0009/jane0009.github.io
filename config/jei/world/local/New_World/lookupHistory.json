@@ -1,0 +1,19 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"advancedperipherals:chunk_controller"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"computercraft:turtle_normal","components":{"computercraft:right_turtle_upgrade":{"id":"advancedperipherals:geoscanner_turtle"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"computercraft:turtle_normal","components":{"computercraft:right_turtle_upgrade":{"id":"advancedperipherals:compass_turtle"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"advancedperipherals:inventory_manager"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"advancedperipherals:peripheral_casing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"advancedperipherals:energy_detector"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"advancedperipherals:player_detector"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"advancedperipherals:me_bridge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"advancedperipherals:rs_bridge"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"computercraft:turtle_advanced","components":{"computercraft:right_turtle_upgrade":{"id":"advancedperipherals:compass_turtle"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"suppsquared:heavy_key","components":{"suppsquared:heavy_key_uuid":[-1535649611,239878450,-1888773989,416973270]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"suppsquared:heavy_key","components":{"suppsquared:heavy_key_uuid":[1192467100,1464028457,-1823022861,953780579]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomeswevegone:ironwood_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomeswevegone:ironwood_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:smoker"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bf_blockpack:workbench"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

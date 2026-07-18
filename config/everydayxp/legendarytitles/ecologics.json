@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "mod_name": "Ecologics",
+  "mod_id": "ecologics",
+  "achievements": {
+    "husbandry/sandcastle": {
+      "display_name": "Fortress of Sanditude",
+      "original_name": "Fortress of Sanditude",
+      "enabled": true,
+      "icon": "ecologics:sandcastle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/breed_penguin": {
+      "display_name": "Happy Feet",
+      "original_name": "Happy Feet",
+      "enabled": true,
+      "icon": "ecologics:penguin_feather",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

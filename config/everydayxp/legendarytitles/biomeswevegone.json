@@ -1,0 +1,147 @@
+{
+  "enabled": true,
+  "mod_name": "Oh The Biomes We\u0027ve Gone",
+  "mod_id": "biomeswevegone",
+  "achievements": {
+    "biomeswevegone/husbandry/hot_diggity_not_dog": {
+      "display_name": "Hot Diggity Not Dog",
+      "original_name": "Hot Diggity Not Dog",
+      "enabled": true,
+      "icon": "biomeswevegone:cattail_sprout",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "biomeswevegone/adventure/inside_quicksand": {
+      "display_name": "I\u0027m Sinking?",
+      "original_name": "I\u0027m Sinking?",
+      "enabled": true,
+      "icon": "biomeswevegone:quicksand",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "biomeswevegone/adventure/little_house_on_the_prairie": {
+      "display_name": "Little House on the Prairie",
+      "original_name": "Little House on the Prairie",
+      "enabled": true,
+      "icon": "biomeswevegone:prairie_grass",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "biomeswevegone/husbandry/forgotten_nostalgia": {
+      "display_name": "Forgotten Nostalgia",
+      "original_name": "Forgotten Nostalgia",
+      "enabled": true,
+      "icon": "biomeswevegone:rose",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "biomeswevegone/husbandry/forager": {
+      "display_name": "Forager",
+      "original_name": "Forager",
+      "enabled": true,
+      "icon": "biomeswevegone:white_puffball_cap",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "biomeswevegone/adventure/forgotten_fae": {
+      "display_name": "Forgotten Fae",
+      "original_name": "Forgotten Fae",
+      "enabled": true,
+      "icon": "biomeswevegone:music_disc_pixie_club",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "biomeswevegone/adventure/true_traveler": {
+      "display_name": "True Traveler",
+      "original_name": "True Traveler",
+      "enabled": true,
+      "icon": "biomeswevegone:music_disc_better_days",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "biomeswevegone/adventure/witches_road": {
+      "display_name": "Down The Witches Road",
+      "original_name": "Down The Witches Road",
+      "enabled": true,
+      "icon": "biomeswevegone:spirit_roots",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "biomeswevegone/husbandry/just_like_grandmas": {
+      "display_name": "Just Like Grandma\u0027s",
+      "original_name": "Just Like Grandma\u0027s",
+      "enabled": true,
+      "icon": "biomeswevegone:green_apple_pie",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "biomeswevegone/husbandry/granny_smith": {
+      "display_name": "Granny Smith?",
+      "original_name": "Granny Smith?",
+      "enabled": true,
+      "icon": "biomeswevegone:green_apple",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "biomeswevegone/husbandry/johnny_appleseed": {
+      "display_name": "Johnny Appleseed",
+      "original_name": "Johnny Appleseed",
+      "enabled": true,
+      "icon": "minecraft:golden_apple",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "biomeswevegone/husbandry/berrily_alive": {
+      "display_name": "Berrily Alive",
+      "original_name": "Berrily Alive",
+      "enabled": true,
+      "icon": "biomeswevegone:blueberries",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+      "display_name": "Oh The Biomes We\u0027ve Gone",
+      "original_name": "Oh The Biomes We\u0027ve Gone",
+      "enabled": true,
+      "icon": "biomeswevegone:bwg_logo",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "biomeswevegone/adventure/pale_in_comparison": {
+      "display_name": "Pale in Comparison",
+      "original_name": "Pale in Comparison",
+      "enabled": true,
+      "icon": "biomeswevegone:soul_fruit",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

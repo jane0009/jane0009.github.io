@@ -1,0 +1,37 @@
+{
+  "enabled": true,
+  "mod_name": "Via Romana",
+  "mod_id": "via_romana",
+  "achievements": {
+    "story/i_just_felt_like_running": {
+      "display_name": "I Just Felt Like Running",
+      "original_name": "I Just Felt Like Running",
+      "enabled": true,
+      "icon": "minecraft:leather_boots",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "story/straight_up_pathing_it": {
+      "display_name": "Straight Up Pathing It",
+      "original_name": "Straight Up Pathing It",
+      "enabled": true,
+      "icon": "minecraft:iron_shovel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "story/a_strand_type_game": {
+      "display_name": "A Strand Type Game",
+      "original_name": "A Strand Type Game",
+      "enabled": true,
+      "icon": "minecraft:oak_sign",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

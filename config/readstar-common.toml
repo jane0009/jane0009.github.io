@@ -1,0 +1,10 @@
+#Time acceleration factor.
+# Default: 1
+# Range: 1 ~ 1000
+timeAcceleration = 1
+#Meteor occurred probability.
+# Default: 0.2
+# Range: 0.0 ~ 0.7
+MeteorProbability = 0.2
+#What you want the introduction message to be for the magic number
+magicNumberIntroduction = "The magic number is... "

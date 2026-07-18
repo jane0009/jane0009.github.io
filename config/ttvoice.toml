@@ -1,0 +1,10 @@
+[general]
+routeThroughVoiceChat = true
+routeThroughDevice = false
+hearSelf = true
+[audio]
+device = -1
+ttsBackend = "Espeak"
+[ui]
+viewHistory = true
+sounds = true

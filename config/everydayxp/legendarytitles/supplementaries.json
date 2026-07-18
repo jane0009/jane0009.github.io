@@ -1,0 +1,97 @@
+{
+  "enabled": true,
+  "mod_name": "Supplementaries",
+  "mod_id": "supplementaries",
+  "achievements": {
+    "husbandry/turn_table": {
+      "display_name": "How the Turn Tables",
+      "original_name": "How the Turn Tables",
+      "enabled": true,
+      "icon": "supplementaries:turn_table",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/angry_birds": {
+      "display_name": "Angry Birds",
+      "original_name": "Angry Birds",
+      "enabled": true,
+      "icon": "supplementaries:slingshot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/sus_stew": {
+      "display_name": "When the Stew is Sus",
+      "original_name": "When the Stew is Sus",
+      "enabled": true,
+      "icon": "minecraft:suspicious_stew",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/goblet": {
+      "display_name": "Consume the Concoction Chalice",
+      "original_name": "Consume the Concoction Chalice",
+      "enabled": true,
+      "icon": "supplementaries:goblet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/globe": {
+      "display_name": "You Spin Me Right Round Baby",
+      "original_name": "You Spin Me Right Round Baby",
+      "enabled": true,
+      "icon": "supplementaries:globe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/wrench": {
+      "display_name": "Engineer Gaming",
+      "original_name": "Engineer Gaming",
+      "enabled": true,
+      "icon": "supplementaries:wrench",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/road_sign": {
+      "display_name": "This Must be a Sign!",
+      "original_name": "This Must be a Sign!",
+      "enabled": true,
+      "icon": "supplementaries:way_sign_oak",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "story/unenchanter": {
+      "display_name": "Why Would You do That!?",
+      "original_name": "Why Would You do That!?",
+      "enabled": true,
+      "icon": "minecraft:enchanted_golden_apple",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/soap": {
+      "display_name": "Tide Pod Challenge",
+      "original_name": "Tide Pod Challenge",
+      "enabled": true,
+      "icon": "supplementaries:soap",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

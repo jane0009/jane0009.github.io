@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "mod_name": "Exposure Polaroid",
+  "mod_id": "exposure_polaroid",
+  "achievements": {
+    "adventure/instant_classic": {
+      "display_name": "Instant Classic",
+      "original_name": "Instant Classic",
+      "enabled": true,
+      "icon": "exposure_polaroid:instant_camera",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

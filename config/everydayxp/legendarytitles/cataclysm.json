@@ -1,0 +1,207 @@
+{
+  "enabled": true,
+  "mod_name": "L_Ender\u0027s Cataclysm 1.21.1",
+  "mod_id": "cataclysm",
+  "achievements": {
+    "kill_harbinger": {
+      "display_name": "The Thing of Ancient Civilization",
+      "original_name": "The Thing of Ancient Civilization",
+      "enabled": true,
+      "icon": "cataclysm:witherite_ingot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_scylla": {
+      "display_name": "The Calm after the Storm",
+      "original_name": "The Calm after the Storm",
+      "enabled": true,
+      "icon": "cataclysm:essence_of_the_storm",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_burning_arena": {
+      "display_name": "A Massive Arena",
+      "original_name": "A Massive Arena",
+      "enabled": true,
+      "icon": "cataclysm:altar_of_fire",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_sunken_city": {
+      "display_name": "Sunken in the Sea",
+      "original_name": "Sunken in the Sea",
+      "enabled": true,
+      "icon": "cataclysm:stone_tiles",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_leviathan": {
+      "display_name": "A Multidimensional Predator",
+      "original_name": "A Multidimensional Predator",
+      "enabled": true,
+      "icon": "cataclysm:tidal_claws",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_ender_guardian": {
+      "display_name": "Wasn\u0027t that a Shulker?",
+      "original_name": "Wasn\u0027t that a Shulker?",
+      "enabled": true,
+      "icon": "cataclysm:gauntlet_of_guard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_frosted_prison": {
+      "display_name": "Jail of Cold",
+      "original_name": "Jail of Cold",
+      "enabled": true,
+      "icon": "cataclysm:door_of_seal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_clawdian": {
+      "display_name": "Not so Shrimple Now",
+      "original_name": "Not so Shrimple Now",
+      "enabled": true,
+      "icon": "cataclysm:chitin_claw",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_soul_black_smith": {
+      "display_name": "Where the Monstrous be Forged",
+      "original_name": "Where the Monstrous be Forged",
+      "enabled": true,
+      "icon": "minecraft:blackstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_remnant": {
+      "display_name": "Death Finds a Way",
+      "original_name": "Death Finds a Way",
+      "enabled": true,
+      "icon": "cataclysm:remnant_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_maledictus": {
+      "display_name": "Crusade Against Curse",
+      "original_name": "Crusade Against Curse",
+      "enabled": true,
+      "icon": "cataclysm:cursed_tombstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_cursed_pyramid": {
+      "display_name": "Desert Pyramid Revamped",
+      "original_name": "Desert Pyramid Revamped",
+      "enabled": true,
+      "icon": "cataclysm:sandstone_poison_dart_trap",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_ruined_citadel": {
+      "display_name": "Another Stronghold?!",
+      "original_name": "Another Stronghold?!",
+      "enabled": true,
+      "icon": "cataclysm:chiseled_end_stone_bricks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_ender_golem": {
+      "display_name": "Palette Swap",
+      "original_name": "Palette Swap",
+      "enabled": true,
+      "icon": "cataclysm:void_core",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_acropolis": {
+      "display_name": "Why in the Sky?",
+      "original_name": "Why in the Sky?",
+      "enabled": true,
+      "icon": "cataclysm:lacrima",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_ignis": {
+      "display_name": "The Extinguished Fire",
+      "original_name": "The Extinguished Fire",
+      "enabled": true,
+      "icon": "cataclysm:bulwark_of_the_flame",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_monstrosity": {
+      "display_name": "The Broken Nether\u0027s Warmachine",
+      "original_name": "The Broken Nether\u0027s Warmachine",
+      "enabled": true,
+      "icon": "cataclysm:infernal_forge",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_ancient_factory": {
+      "display_name": "Out-of-Place",
+      "original_name": "Out-of-Place",
+      "enabled": true,
+      "icon": "cataclysm:emp",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_all_bosses": {
+      "display_name": "The Cataclysmfarer",
+      "original_name": "The Cataclysmfarer",
+      "enabled": true,
+      "icon": "cataclysm:music_disc_the_cataclysmfarer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_revenant": {
+      "display_name": "Imperfect thing",
+      "original_name": "Imperfect thing",
+      "enabled": true,
+      "icon": "cataclysm:burning_ashes",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

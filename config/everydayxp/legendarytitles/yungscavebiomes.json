@@ -1,0 +1,77 @@
+{
+  "enabled": true,
+  "mod_name": "YUNG\u0027s Cave Biomes",
+  "mod_id": "yungscavebiomes",
+  "achievements": {
+    "frost_potion": {
+      "display_name": "Brain Freeze",
+      "original_name": "Brain Freeze",
+      "enabled": true,
+      "icon": "yungscavebiomes:frost_lily",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "mine_enchanted_ice": {
+      "display_name": "Breaking the Ice",
+      "original_name": "Breaking the Ice",
+      "enabled": true,
+      "icon": "yungscavebiomes:rare_ice",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "poke_the_cactus": {
+      "display_name": "Please Do Not Touch The Cactus",
+      "original_name": "Please Do Not Touch The Cactus",
+      "enabled": true,
+      "icon": "yungscavebiomes:prickly_peach_cactus",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lost_caves": {
+      "display_name": "A Howling Discovery",
+      "original_name": "A Howling Discovery",
+      "enabled": true,
+      "icon": "yungscavebiomes:chiseled_ancient_sandstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "frosted_caves": {
+      "display_name": "Cool, Cool Cave",
+      "original_name": "Cool, Cool Cave",
+      "enabled": true,
+      "icon": "yungscavebiomes:icicle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_snack_that_bites_back": {
+      "display_name": "The Snack That Bites Back",
+      "original_name": "The Snack That Bites Back",
+      "enabled": true,
+      "icon": "yungscavebiomes:prickly_peach",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sandstorm_end": {
+      "display_name": "Sandblasted Corridors",
+      "original_name": "Sandblasted Corridors",
+      "enabled": true,
+      "icon": "yungscavebiomes:ancient_sand",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

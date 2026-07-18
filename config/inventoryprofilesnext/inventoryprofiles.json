@@ -1,0 +1,23 @@
+{
+    "Features": {
+        "enable_lock_slots": {
+            "value": false
+        }
+    },
+    "ModSettings": {
+        "first_run": false,
+        "enable_lock_slots": {
+            "value": false
+        }
+    },
+    "LockedSlotsSettings": {
+        "enable_lock_slots": {
+            "value": false
+        }
+    },
+    "AutoRefillSettings": {
+        "auto_refill_enable_indicator_icons": {
+            "value": false
+        }
+    }
+}

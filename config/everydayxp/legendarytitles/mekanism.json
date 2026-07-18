@@ -1,0 +1,467 @@
+{
+  "enabled": true,
+  "mod_name": "Mekanism",
+  "mod_id": "mekanism",
+  "achievements": {
+    "sps_experiment_pig": {
+      "display_name": "Attempt at Pig Intelligence",
+      "original_name": "Attempt at Pig Intelligence",
+      "enabled": true,
+      "icon": "minecraft:pig_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "basic_control_circuit": {
+      "display_name": "Tricking a Rock Into Thinking",
+      "original_name": "Tricking a Rock Into Thinking",
+      "enabled": true,
+      "icon": "mekanism:basic_control_circuit",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "breathing_assistance": {
+      "display_name": "Breathe Easy",
+      "original_name": "Breathe Easy",
+      "enabled": true,
+      "icon": "mekanism:scuba_mask",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "laser_death": {
+      "display_name": "Mmmmmm, Crispy!",
+      "original_name": "Mmmmmm, Crispy!",
+      "enabled": true,
+      "icon": "minecraft:skeleton_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "moving_blocks": {
+      "display_name": "Moving Day!",
+      "original_name": "Moving Day!",
+      "enabled": true,
+      "icon": "mekanism:cardboard_box",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "hydrogen_powered_flight": {
+      "display_name": "Hydrogen Powered Flight",
+      "original_name": "Hydrogen Powered Flight",
+      "enabled": true,
+      "icon": "mekanism:jetpack",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "teleporter": {
+      "display_name": "Speedy Thing Goes In, Speedy Thing Comes Out",
+      "original_name": "Speedy Thing Goes In, Speedy Thing Comes Out",
+      "enabled": true,
+      "icon": "mekanism:teleporter",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "stopping_lasers": {
+      "display_name": "Get Outta My Spectrum!",
+      "original_name": "Get Outta My Spectrum!",
+      "enabled": true,
+      "icon": "minecraft:shield",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "running_free": {
+      "display_name": "Yeah I\u0027m Freeeeee Fallin\u0027",
+      "original_name": "Yeah I\u0027m Freeeeee Fallin\u0027",
+      "enabled": true,
+      "icon": "mekanism:free_runners",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "full_canteen": {
+      "display_name": "Tasty Paste",
+      "original_name": "Tasty Paste",
+      "enabled": true,
+      "icon": "mekanism:canteen",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "stabilizing_chunks": {
+      "display_name": "Stabilizing The Universe",
+      "original_name": "Stabilizing The Universe",
+      "enabled": true,
+      "icon": "mekanism:dimensional_stabilizer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "radiation_poisoning": {
+      "display_name": "Does This Taste Like Metal to You?",
+      "original_name": "Does This Taste Like Metal to You?",
+      "enabled": true,
+      "icon": "mekanism:radioactive_waste_barrel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "configurator": {
+      "display_name": "Configure Everything",
+      "original_name": "Configure Everything",
+      "enabled": true,
+      "icon": "mekanism:configurator",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quantum_entangloporter": {
+      "display_name": "Quantum Entanglement",
+      "original_name": "Quantum Entanglement",
+      "enabled": true,
+      "icon": "mekanism:quantum_entangloporter",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "steel_casing": {
+      "display_name": "The Perfect Foundation",
+      "original_name": "The Perfect Foundation",
+      "enabled": true,
+      "icon": "mekanism:steel_casing",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "disassembler": {
+      "display_name": "Needs More Speeeeed!",
+      "original_name": "Needs More Speeeeed!",
+      "enabled": true,
+      "icon": "mekanism:atomic_disassembler",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "radiation_poisoning_death": {
+      "display_name": "Not Great, Not Terrible",
+      "original_name": "Not Great, Not Terrible",
+      "enabled": true,
+      "icon": "minecraft:player_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enricher": {
+      "display_name": "Getting More From Less",
+      "original_name": "Getting More From Less",
+      "enabled": true,
+      "icon": "mekanism:enrichment_chamber",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infusing_efficiency": {
+      "display_name": "Infusing Efficiency",
+      "original_name": "Infusing Efficiency",
+      "enabled": true,
+      "icon": "mekanism:enriched_redstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "antimatter": {
+      "display_name": "Impossible Material",
+      "original_name": "Impossible Material",
+      "enabled": true,
+      "icon": "mekanism:pellet_antimatter",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "mekasuit": {
+      "display_name": "Mekanist",
+      "original_name": "Mekanist",
+      "enabled": true,
+      "icon": "mekanism:mekasuit_bodyarmor",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "robit": {
+      "display_name": "A New Best Friend!",
+      "original_name": "A New Best Friend!",
+      "enabled": true,
+      "icon": "mekanism:robit",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infused_alloy": {
+      "display_name": "The Alloy That Started it All",
+      "original_name": "The Alloy That Started it All",
+      "enabled": true,
+      "icon": "mekanism:alloy_infused",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "polonium": {
+      "display_name": "Polonium, Not Plutonium",
+      "original_name": "Polonium, Not Plutonium",
+      "enabled": true,
+      "icon": "mekanism:pellet_polonium",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "plutonium": {
+      "display_name": "Plutonium, Not Polonium",
+      "original_name": "Plutonium, Not Polonium",
+      "enabled": true,
+      "icon": "mekanism:pellet_plutonium",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "portable_qio_dashboard": {
+      "display_name": "Who Needs Backpacks?",
+      "original_name": "Who Needs Backpacks?",
+      "enabled": true,
+      "icon": "mekanism:portable_qio_dashboard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "radiation_prevention": {
+      "display_name": "Unfashionable, But Smart",
+      "original_name": "Unfashionable, But Smart",
+      "enabled": true,
+      "icon": "mekanism:hazmat_gown",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "qio_drive_array": {
+      "display_name": "Wait, Where Are All The Cables?!",
+      "original_name": "Wait, Where Are All The Cables?!",
+      "enabled": true,
+      "icon": "mekanism:qio_drive_array",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "metallurgic_infuser": {
+      "display_name": "A Metallur-what?",
+      "original_name": "A Metallur-what?",
+      "enabled": true,
+      "icon": "mekanism:metallurgic_infuser",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "steel_ingot": {
+      "display_name": "Industrial Revolution",
+      "original_name": "Industrial Revolution",
+      "enabled": true,
+      "icon": "mekanism:ingot_steel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sps_experiment_villager": {
+      "display_name": "Villager Electroshock Therapy?",
+      "original_name": "Villager Electroshock Therapy?",
+      "enabled": true,
+      "icon": "minecraft:villager_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "basic_qio_drive": {
+      "display_name": "Compressed Reality",
+      "original_name": "Compressed Reality",
+      "enabled": true,
+      "icon": "mekanism:qio_drive_base",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "portable_teleporter": {
+      "display_name": "Beam Me Up, Scotty",
+      "original_name": "Beam Me Up, Scotty",
+      "enabled": true,
+      "icon": "mekanism:portable_teleporter",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "modification_station": {
+      "display_name": "Get Your Tweak On",
+      "original_name": "Get Your Tweak On",
+      "enabled": true,
+      "icon": "mekanism:modification_station",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "digital_miner": {
+      "display_name": "Trapped Inside",
+      "original_name": "Trapped Inside",
+      "enabled": true,
+      "icon": "mekanism:digital_miner",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "chemical_crystallizer": {
+      "display_name": "The Most Bang for Your Buck",
+      "original_name": "The Most Bang for Your Buck",
+      "enabled": true,
+      "icon": "mekanism:chemical_crystallizer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "factory": {
+      "display_name": "The Factory Must Grow!",
+      "original_name": "The Factory Must Grow!",
+      "enabled": true,
+      "icon": "mekanism:basic_smelting_factory",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ultimate_qio_drive": {
+      "display_name": "Parallel Universe Detected",
+      "original_name": "Parallel Universe Detected",
+      "enabled": true,
+      "icon": "mekanism:qio_drive_supermassive",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "qio_dashboard": {
+      "display_name": "So Much More Than a Monitor",
+      "original_name": "So Much More Than a Monitor",
+      "enabled": true,
+      "icon": "mekanism:qio_dashboard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "logistical_sorter": {
+      "display_name": "Pick and Place",
+      "original_name": "Pick and Place",
+      "enabled": true,
+      "icon": "mekanism:logistical_sorter",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "upgraded_mekasuit": {
+      "display_name": "True Dedication",
+      "original_name": "True Dedication",
+      "enabled": true,
+      "icon": "mekanism:mekasuit_bodyarmor",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "cleaning_gauges": {
+      "display_name": "Cleaning Gauges",
+      "original_name": "Cleaning Gauges",
+      "enabled": true,
+      "icon": "mekanism:gauge_dropper",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sps_experiment_creeper": {
+      "display_name": "Experimenting on Creepers",
+      "original_name": "Experimenting on Creepers",
+      "enabled": true,
+      "icon": "minecraft:creeper_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nucleosynthesizer": {
+      "display_name": "Alchemy, But Make It Sciencey",
+      "original_name": "Alchemy, But Make It Sciencey",
+      "enabled": true,
+      "icon": "mekanism:antiprotonic_nucleosynthesizer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sps_experiment_mooshroom": {
+      "display_name": "Mooshroom Recoloring",
+      "original_name": "Mooshroom Recoloring",
+      "enabled": true,
+      "icon": "minecraft:mooshroom_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "stone_generator": {
+      "display_name": "Replace With Stone",
+      "original_name": "Replace With Stone",
+      "enabled": true,
+      "icon": "mekanism:upgrade_stone_generator",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

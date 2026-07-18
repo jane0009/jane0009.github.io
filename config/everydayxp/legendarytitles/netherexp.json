@@ -1,0 +1,347 @@
+{
+  "enabled": true,
+  "mod_name": "Jaden\u0027s Nether Expansion",
+  "mod_id": "netherexp",
+  "achievements": {
+    "nether/soul_sand_valley/the_caduceus": {
+      "display_name": "The Caduceus",
+      "original_name": "The Caduceus",
+      "enabled": true,
+      "icon": "netherexp:antidote",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/sanctum_of_wax": {
+      "display_name": "Sanctum of Wax",
+      "original_name": "Sanctum of Wax",
+      "enabled": true,
+      "icon": "netherexp:ancient_wax",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/eldritch_manipulation": {
+      "display_name": "Eldritch Manipulation",
+      "original_name": "Eldritch Manipulation",
+      "enabled": true,
+      "icon": "netherexp:brazier_chest",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/back_with_a_vengeance": {
+      "display_name": "Back with a Vengeance",
+      "original_name": "Back with a Vengeance",
+      "enabled": true,
+      "icon": "netherexp:treacherous_candle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/rekindled_betrayal": {
+      "display_name": "Rekindled Betrayal",
+      "original_name": "Rekindled Betrayal",
+      "enabled": true,
+      "icon": "netherexp:treacherous_flame",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/non_renewable_yeah_right": {
+      "display_name": "Non-renewable? Yeah, right..",
+      "original_name": "Non-renewable? Yeah, right..",
+      "enabled": true,
+      "icon": "minecraft:skeleton_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/brain_food": {
+      "display_name": "Brain-Food",
+      "original_name": "Brain-Food",
+      "enabled": true,
+      "icon": "netherexp:cerebrage",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/rattling_remnants": {
+      "display_name": "Rattling Remnants",
+      "original_name": "Rattling Remnants",
+      "enabled": true,
+      "icon": "minecraft:bone_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/blind_shot": {
+      "display_name": "Blind Shot",
+      "original_name": "Blind Shot",
+      "enabled": true,
+      "icon": "netherexp:phasmo_arrow",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/angel_with_a_shotgun": {
+      "display_name": "Angel with a Shotgun",
+      "original_name": "Angel with a Shotgun",
+      "enabled": true,
+      "icon": "netherexp:shotgun_fist",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/ghost_mucus": {
+      "display_name": "Ghost Mucus",
+      "original_name": "Ghost Mucus",
+      "enabled": true,
+      "icon": "netherexp:ectoplasm_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/hp_minecraftian": {
+      "display_name": "H.P Minecraftian",
+      "original_name": "H.P Minecraftian",
+      "enabled": true,
+      "icon": "minecraft:flint_and_steel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/frightening_rush": {
+      "display_name": "Frightening Rush",
+      "original_name": "Frightening Rush",
+      "enabled": true,
+      "icon": "netherexp:soul_swirls",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/lorekeeper": {
+      "display_name": "Lorekeeper",
+      "original_name": "Lorekeeper",
+      "enabled": true,
+      "icon": "netherexp:ossified_gargoyle_statue",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/enter_soul_glass": {
+      "display_name": "Phasmophobic",
+      "original_name": "Phasmophobic",
+      "enabled": true,
+      "icon": "netherexp:phasmo_shard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/exorcism": {
+      "display_name": "Exorcism",
+      "original_name": "Exorcism",
+      "enabled": true,
+      "icon": "netherexp:wisp_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/big_brain_time": {
+      "display_name": "Yeah, This is Big Brain Time",
+      "original_name": "Yeah, This is Big Brain Time",
+      "enabled": true,
+      "icon": "netherexp:cerebrage_claret_stem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/no_skin": {
+      "display_name": "I don\u0027t want Immortality, I want skin",
+      "original_name": "I don\u0027t want Immortality, I want skin",
+      "enabled": true,
+      "icon": "netherexp:treacherous_flame",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/occult_manor": {
+      "display_name": "Castlemania",
+      "original_name": "Castlemania",
+      "enabled": true,
+      "icon": "netherexp:chiseled_soul_slate_tiles",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/black_ice_black_everything_black": {
+      "display_name": "Black Ice, Black Everything Black",
+      "original_name": "Black Ice, Black Everything Black",
+      "enabled": true,
+      "icon": "netherexp:black_icicle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/the_nether_is_full": {
+      "display_name": "Blood is Fuel, The Nether is Full",
+      "original_name": "Blood is Fuel, The Nether is Full",
+      "enabled": true,
+      "icon": "netherexp:pump_charge_shotgun",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/ssv_sub_biomes": {
+      "display_name": "The Fright Before Xmas",
+      "original_name": "The Fright Before Xmas",
+      "enabled": true,
+      "icon": "netherexp:netherite_plated_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/froghorn": {
+      "display_name": "Froghorn",
+      "original_name": "Froghorn",
+      "enabled": true,
+      "icon": "netherexp:verdant_frogmist",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/gravedigger": {
+      "display_name": "Gravedigger",
+      "original_name": "Gravedigger",
+      "enabled": true,
+      "icon": "netherexp:fossil_fuel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/add_spores_to_block": {
+      "display_name": "Algaebra",
+      "original_name": "Algaebra",
+      "enabled": true,
+      "icon": "netherexp:nightspores",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/ayo_the_pizza_here": {
+      "display_name": "Ayo! the Pizza Here",
+      "original_name": "Ayo! the Pizza Here",
+      "enabled": true,
+      "icon": "netherexp:nether_pizza",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/emf_raider": {
+      "display_name": "EMF-Raider",
+      "original_name": "EMF-Raider",
+      "enabled": true,
+      "icon": "netherexp:sanctum_compass",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/ultra_overkill": {
+      "display_name": "ULTRA-OVERKILL",
+      "original_name": "ULTRA-OVERKILL",
+      "enabled": true,
+      "icon": "netherexp:shotgun_core",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/rodeo_stampede": {
+      "display_name": "Rodeo Stampede",
+      "original_name": "Rodeo Stampede",
+      "enabled": true,
+      "icon": "netherexp:skull_on_a_stick",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/guns_for_hands": {
+      "display_name": "Guns for Hands",
+      "original_name": "Guns for Hands",
+      "enabled": true,
+      "icon": "netherexp:shotgun_shell",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/overkill": {
+      "display_name": "Overkill",
+      "original_name": "Overkill",
+      "enabled": true,
+      "icon": "minecraft:golden_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/pizza_hunt": {
+      "display_name": "Pizza Hunt",
+      "original_name": "Pizza Hunt",
+      "enabled": true,
+      "icon": "netherexp:nether_pizza_slice",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/soul_sand_valley/plague_doctor": {
+      "display_name": "Plague-Doctor",
+      "original_name": "Plague-Doctor",
+      "enabled": true,
+      "icon": "netherexp:grenade_antidote",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nether/stayin_frosty": {
+      "display_name": "Stayin\u0027 Frosty",
+      "original_name": "Stayin\u0027 Frosty",
+      "enabled": true,
+      "icon": "minecraft:lava_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

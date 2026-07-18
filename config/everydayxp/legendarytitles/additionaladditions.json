@@ -1,0 +1,107 @@
+{
+  "enabled": true,
+  "mod_name": "Additional Additions",
+  "mod_id": "additionaladditions",
+  "achievements": {
+    "play_album": {
+      "display_name": "Discography",
+      "original_name": "Discography",
+      "enabled": true,
+      "icon": "additionaladditions:album",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "fill_album_same_disc": {
+      "display_name": "Like a Broken Record",
+      "original_name": "Like a Broken Record",
+      "enabled": true,
+      "icon": "minecraft:music_disc_11",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_rose_gold": {
+      "display_name": "Gold n\u0027 Roses",
+      "original_name": "Gold n\u0027 Roses",
+      "enabled": true,
+      "icon": "additionaladditions:rose_gold_chestplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_chicken_nugget": {
+      "display_name": "What a Nugget, Once Again!",
+      "original_name": "What a Nugget, Once Again!",
+      "enabled": true,
+      "icon": "additionaladditions:chicken_nugget",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_watering_can": {
+      "display_name": "Just Add Water",
+      "original_name": "Just Add Water",
+      "enabled": true,
+      "icon": "additionaladditions:watering_can",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_tinted_redstone_lamp": {
+      "display_name": "Ultra-violent",
+      "original_name": "Ultra-violent",
+      "enabled": true,
+      "icon": "additionaladditions:tinted_redstone_lamp",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "play_pocket_jukebox": {
+      "display_name": "What a Nugget!",
+      "original_name": "What a Nugget!",
+      "enabled": true,
+      "icon": "additionaladditions:pocket_jukebox",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "use_all_suspicious_dyes": {
+      "display_name": "Prismatic",
+      "original_name": "Prismatic",
+      "enabled": true,
+      "icon": "additionaladditions:magenta_suspicious_dye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_suspicious_dye": {
+      "display_name": "Ancient Aesthetics",
+      "original_name": "Ancient Aesthetics",
+      "enabled": true,
+      "icon": "additionaladditions:orange_suspicious_dye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "place_rope_world_height": {
+      "display_name": "From Summit to Bedrock",
+      "original_name": "From Summit to Bedrock",
+      "enabled": true,
+      "icon": "additionaladditions:rope",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

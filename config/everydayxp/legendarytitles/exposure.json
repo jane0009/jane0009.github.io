@@ -1,0 +1,147 @@
+{
+  "enabled": true,
+  "mod_name": "Exposure",
+  "mod_id": "exposure",
+  "achievements": {
+    "adventure/family_portrait": {
+      "display_name": "Family Portrait",
+      "original_name": "Family Portrait",
+      "enabled": true,
+      "icon": "exposure:camera_stand",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/piercing_gaze": {
+      "display_name": "A Piercing Gaze",
+      "original_name": "A Piercing Gaze",
+      "enabled": true,
+      "icon": "exposure:interplanar_projector",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/splitting_the_photon": {
+      "display_name": "Splitting the Photon",
+      "original_name": "Splitting the Photon",
+      "enabled": true,
+      "icon": "minecraft:red_stained_glass_pane",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/moment_in_time": {
+      "display_name": "A Moment in Time",
+      "original_name": "A Moment in Time",
+      "enabled": true,
+      "icon": "exposure:photograph",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/unforeseen_consequences": {
+      "display_name": "Unforeseen Consequences",
+      "original_name": "Unforeseen Consequences",
+      "enabled": true,
+      "icon": "minecraft:ender_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/complex_composite_compound": {
+      "display_name": "Complex Composite Compound",
+      "original_name": "Complex Composite Compound",
+      "enabled": true,
+      "icon": "exposure:chromatic_sheet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/wildlife_archivist": {
+      "display_name": "Wildlife Archivist",
+      "original_name": "Wildlife Archivist",
+      "enabled": true,
+      "icon": "minecraft:axolotl_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/spotlight": {
+      "display_name": "Was that a spotlight? On me?",
+      "original_name": "Was that a spotlight? On me?",
+      "enabled": true,
+      "icon": "minecraft:player_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/exposed_paparazzi": {
+      "display_name": "Exposed Paparazzi",
+      "original_name": "Exposed Paparazzi",
+      "enabled": true,
+      "icon": "minecraft:jack_o_lantern",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/lights_up": {
+      "display_name": "Lights Up!",
+      "original_name": "Lights Up!",
+      "enabled": true,
+      "icon": "minecraft:redstone_lamp",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/exposure": {
+      "display_name": "Exposure",
+      "original_name": "Exposure",
+      "enabled": true,
+      "icon": "exposure:camera",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/spooky_silly_skeletons": {
+      "display_name": "Spooky Silly Skeletons",
+      "original_name": "Spooky Silly Skeletons",
+      "enabled": true,
+      "icon": "minecraft:bone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/photos_of_spider_man": {
+      "display_name": "I need photos of Spider...Man?",
+      "original_name": "I need photos of Spider...Man?",
+      "enabled": true,
+      "icon": "minecraft:cobweb",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/void": {
+      "display_name": "It\u0027s a Brilliant Surface in That Void!",
+      "original_name": "It\u0027s a Brilliant Surface in That Void!",
+      "enabled": true,
+      "icon": "minecraft:end_stone_bricks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

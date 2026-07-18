@@ -1,0 +1,107 @@
+{
+  "enabled": true,
+  "mod_name": "No Man\u0027s Land",
+  "mod_id": "nomansland",
+  "achievements": {
+    "main/buddy_ascension": {
+      "display_name": "Friend of my Friend",
+      "original_name": "Friend of my Friend",
+      "enabled": true,
+      "icon": "minecraft:red_mushroom",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/when_pigs_fly": {
+      "display_name": "When Pigs Fly",
+      "original_name": "When Pigs Fly",
+      "enabled": true,
+      "icon": "minecraft:saddle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/tree_juice": {
+      "display_name": "Tree Juice",
+      "original_name": "Tree Juice",
+      "enabled": true,
+      "icon": "nomansland:tap",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/ignite_flammable_enemy": {
+      "display_name": "Grossly Incandescent",
+      "original_name": "Grossly Incandescent",
+      "enabled": true,
+      "icon": "nomansland:resin_oil_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/find_alchemist_ruins": {
+      "display_name": "Old Stories",
+      "original_name": "Old Stories",
+      "enabled": true,
+      "icon": "nomansland:ancestral_effigy",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/dream_friend_moon": {
+      "display_name": "First Contact",
+      "original_name": "First Contact",
+      "enabled": true,
+      "icon": "nomansland:warding_effigy",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/find_ancient_city": {
+      "display_name": "Blue Hum",
+      "original_name": "Blue Hum",
+      "enabled": true,
+      "icon": "minecraft:reinforced_deepslate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/meet_friend_moon": {
+      "display_name": "Friendship",
+      "original_name": "Friendship",
+      "enabled": true,
+      "icon": "nomansland:ancient_bronze_mask",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/kill_anchored_mob": {
+      "display_name": "Can\u0027t Even Die Right",
+      "original_name": "Can\u0027t Even Die Right",
+      "enabled": true,
+      "icon": "nomansland:monster_anchor",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/explode_ore": {
+      "display_name": "Gets The Job Done",
+      "original_name": "Gets The Job Done",
+      "enabled": true,
+      "icon": "nomansland:explosive",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

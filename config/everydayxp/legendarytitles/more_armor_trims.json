@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "mod_name": "More Armor Trims",
+  "mod_id": "more_armor_trims",
+  "achievements": {
+    "trim_with_all_armor_patterns": {
+      "display_name": "Full Card Collection",
+      "original_name": "Full Card Collection",
+      "enabled": true,
+      "icon": "more_armor_trims:ram_armor_trim_smithing_template",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

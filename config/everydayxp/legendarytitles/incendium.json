@@ -1,0 +1,397 @@
+{
+  "enabled": true,
+  "mod_name": "Incendium",
+  "mod_id": "incendium",
+  "achievements": {
+    "withered_forest/kill_spirit": {
+      "display_name": "Apparitions",
+      "original_name": "Apparitions",
+      "enabled": true,
+      "icon": "minecraft:experience_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ash_barrens/conquer_castle": {
+      "display_name": "The Conqueror",
+      "original_name": "The Conqueror",
+      "enabled": true,
+      "icon": "minecraft:netherite_axe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_dunes/inferno/lunatic_mode": {
+      "display_name": "Lunatic Mode",
+      "original_name": "Lunatic Mode",
+      "enabled": true,
+      "icon": "minecraft:white_banner",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_dunes/inferno/armored_wings": {
+      "display_name": "Forged in Flames",
+      "original_name": "Forged in Flames",
+      "enabled": true,
+      "icon": "minecraft:elytra",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "withered_forest/root": {
+      "display_name": "Ancient Battlefield",
+      "original_name": "Ancient Battlefield",
+      "enabled": true,
+      "icon": "minecraft:blackstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "misc/ruined_lab": {
+      "display_name": "Alchemical Experiments",
+      "original_name": "Alchemical Experiments",
+      "enabled": true,
+      "icon": "minecraft:splash_potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "misc/loot_piglin_village": {
+      "display_name": "Piglin Pillage",
+      "original_name": "Piglin Pillage",
+      "enabled": true,
+      "icon": "minecraft:golden_pickaxe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "misc/soul_searcher": {
+      "display_name": "Soul Searcher",
+      "original_name": "Soul Searcher",
+      "enabled": true,
+      "icon": "minecraft:netherite_boots",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quartz_flats/ghast_buster": {
+      "display_name": "Ghast Buster",
+      "original_name": "Ghast Buster",
+      "enabled": true,
+      "icon": "minecraft:ghast_tear",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_dunes/inferno/run": {
+      "display_name": "Run.",
+      "original_name": "Run.",
+      "enabled": true,
+      "icon": "minecraft:blaze_powder",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_dunes/pipeline/pipeline_treasure": {
+      "display_name": "Plumber\u0027s Plunder",
+      "original_name": "Plumber\u0027s Plunder",
+      "enabled": true,
+      "icon": "minecraft:barrel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_dunes/pipeline/root": {
+      "display_name": "Pipe Dream",
+      "original_name": "Pipe Dream",
+      "enabled": true,
+      "icon": "minecraft:hopper",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_dunes/pipeline/kill_sentry": {
+      "display_name": "Ceci n\u0027est pas un blaze",
+      "original_name": "Ceci n\u0027est pas un blaze",
+      "enabled": true,
+      "icon": "minecraft:totem_of_undying",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quartz_flats/feed_ghastling": {
+      "display_name": "Feed the Beast",
+      "original_name": "Feed the Beast",
+      "enabled": true,
+      "icon": "minecraft:fire_charge",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quartz_flats/torte/root": {
+      "display_name": "You Fool!",
+      "original_name": "You Fool!",
+      "enabled": true,
+      "icon": "minecraft:bone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "volcanic_deltas/root": {
+      "display_name": "Hellfire Mantle",
+      "original_name": "Hellfire Mantle",
+      "enabled": true,
+      "icon": "minecraft:polished_basalt",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_dunes/inferno/root": {
+      "display_name": "Beyond the Embers",
+      "original_name": "Beyond the Embers",
+      "enabled": true,
+      "icon": "minecraft:lectern",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "volcanic_deltas/hidden_debris": {
+      "display_name": "Treacherous Heights",
+      "original_name": "Treacherous Heights",
+      "enabled": true,
+      "icon": "minecraft:ancient_debris",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_dunes/root": {
+      "display_name": "Darude - Firestorm",
+      "original_name": "Darude - Firestorm",
+      "enabled": true,
+      "icon": "minecraft:red_sand",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_dunes/pipeline/unlimited_power": {
+      "display_name": "UNLIMITED POWER!!!",
+      "original_name": "UNLIMITED POWER!!!",
+      "enabled": true,
+      "icon": "minecraft:lightning_rod",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_dunes/inferno/summon": {
+      "display_name": "Risen from Fire",
+      "original_name": "Risen from Fire",
+      "enabled": true,
+      "icon": "minecraft:nether_star",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_dunes/inferno/kill": {
+      "display_name": "Fallen to Ashes",
+      "original_name": "Fallen to Ashes",
+      "enabled": true,
+      "icon": "minecraft:jigsaw",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quartz_flats/rescue_mission": {
+      "display_name": "Rescue Mission",
+      "original_name": "Rescue Mission",
+      "enabled": true,
+      "icon": "minecraft:iron_bars",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quartz_flats/sanctum/root": {
+      "display_name": "An Illager Refuge?",
+      "original_name": "An Illager Refuge?",
+      "enabled": true,
+      "icon": "minecraft:quartz_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ash_barrens/enter_castle": {
+      "display_name": "In the Hall of the Piglin King",
+      "original_name": "In the Hall of the Piglin King",
+      "enabled": true,
+      "icon": "minecraft:gilded_blackstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "toxic_heap/root": {
+      "display_name": "Radioactive",
+      "original_name": "Radioactive",
+      "enabled": true,
+      "icon": "minecraft:slime_ball",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "withered_forest/chain_armor": {
+      "display_name": "Ghostbuster",
+      "original_name": "Ghostbuster",
+      "enabled": true,
+      "icon": "minecraft:chainmail_chestplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "misc/root": {
+      "display_name": "Strange Biomes",
+      "original_name": "Strange Biomes",
+      "enabled": true,
+      "icon": "minecraft:golden_boots",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_dunes/dune_blaze": {
+      "display_name": "Light-Sensitive",
+      "original_name": "Light-Sensitive",
+      "enabled": true,
+      "icon": "minecraft:redstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ash_barrens/root": {
+      "display_name": "The Dust Settles",
+      "original_name": "The Dust Settles",
+      "enabled": true,
+      "icon": "minecraft:smooth_basalt",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quartz_flats/sanctum/vault_hunter": {
+      "display_name": "Vault Hunter",
+      "original_name": "Vault Hunter",
+      "enabled": true,
+      "icon": "minecraft:spectral_arrow",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "toxic_heap/mystic_wisdom": {
+      "display_name": "Mystic Wisdom",
+      "original_name": "Mystic Wisdom",
+      "enabled": true,
+      "icon": "minecraft:ender_chest",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quartz_flats/torte/kitchen_treasure": {
+      "display_name": "Kitchen\u0027s Treasure",
+      "original_name": "Kitchen\u0027s Treasure",
+      "enabled": true,
+      "icon": "minecraft:trapped_chest",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infernal_dunes/border_of_life": {
+      "display_name": "Border of Life",
+      "original_name": "Border of Life",
+      "enabled": true,
+      "icon": "minecraft:redstone_lamp",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quartz_flats/floor_is_tears": {
+      "display_name": "The Floor is Tears",
+      "original_name": "The Floor is Tears",
+      "enabled": true,
+      "icon": "minecraft:quartz_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "toxic_heap/nuclear_fusion": {
+      "display_name": "Pocket Edition Alpha",
+      "original_name": "Pocket Edition Alpha",
+      "enabled": true,
+      "icon": "minecraft:slime_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "toxic_heap/slime_poison": {
+      "display_name": "Toxic Personality",
+      "original_name": "Toxic Personality",
+      "enabled": true,
+      "icon": "minecraft:potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quartz_flats/root": {
+      "display_name": "Hellish Paradise",
+      "original_name": "Hellish Paradise",
+      "enabled": true,
+      "icon": "minecraft:smooth_quartz",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ash_barrens/duel_of_the_fates": {
+      "display_name": "Duel of the Fates",
+      "original_name": "Duel of the Fates",
+      "enabled": true,
+      "icon": "minecraft:crossbow",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

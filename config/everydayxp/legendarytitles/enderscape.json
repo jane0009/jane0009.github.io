@@ -1,0 +1,117 @@
+{
+  "enabled": true,
+  "mod_name": "Enderscape",
+  "mod_id": "enderscape",
+  "achievements": {
+    "rustle_bucket": {
+      "display_name": "The Rustle Hustle",
+      "original_name": "The Rustle Hustle",
+      "enabled": true,
+      "icon": "enderscape:rustle_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "long_distance": {
+      "display_name": "Not Quite Long Distance",
+      "original_name": "Not Quite Long Distance",
+      "enabled": true,
+      "icon": "enderscape:mirror",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bottle_drift_jelly": {
+      "display_name": "You Catch My Drift?",
+      "original_name": "You Catch My Drift?",
+      "enabled": true,
+      "icon": "enderscape:drift_jelly_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "drift_leggings": {
+      "display_name": "Otherwordly Drip",
+      "original_name": "Otherwordly Drip",
+      "enabled": true,
+      "icon": "enderscape:drift_leggings",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pull_item_with_attractor": {
+      "display_name": "Magnificent Reach!",
+      "original_name": "Magnificent Reach!",
+      "enabled": true,
+      "icon": "enderscape:magnia_attractor",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "unlock_end_vault": {
+      "display_name": "Lifting the Lockdown",
+      "original_name": "Lifting the Lockdown",
+      "enabled": true,
+      "icon": "enderscape:end_city_key",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "mirror_teleport": {
+      "display_name": "Through the Looking Glass",
+      "original_name": "Through the Looking Glass",
+      "enabled": true,
+      "icon": "enderscape:mirror",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "glide_onto_drifter": {
+      "display_name": "Terminal Jellocity",
+      "original_name": "Terminal Jellocity",
+      "enabled": true,
+      "icon": "minecraft:firework_rocket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "craft_nebulite": {
+      "display_name": "Nebulous Activity",
+      "original_name": "Nebulous Activity",
+      "enabled": true,
+      "icon": "enderscape:nebulite",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "transdimensional": {
+      "display_name": "A Link Between Worlds",
+      "original_name": "A Link Between Worlds",
+      "enabled": true,
+      "icon": "enderscape:mirror",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "explore_end": {
+      "display_name": "Beyond the End",
+      "original_name": "Beyond the End",
+      "enabled": true,
+      "icon": "enderscape:celestial_overgrowth",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}
