@@ -2890,11 +2890,6 @@ hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
 metafile = true
 
 [[files]]
-file = "mods/trimmable-tools.pw.toml"
-hash = "6fd8e11060b70e43467502cc486ec82f566a3751779cd394d4f4e5274e36a522"
-metafile = true
-
-[[files]]
 file = "mods/trimmed.pw.toml"
 hash = "28db7535fae8c33b5547fefefdd88ead89c7edd7c1f330a5f370dca76e6706c9"
 metafile = true
