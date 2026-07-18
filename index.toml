@@ -329,18 +329,6 @@ file = "config/astrocraft.json"
 hash = "fd4a936028e8393fcbc6f9dc37e66b3362b8101cad36092f1e35b52b5f3772a0"
 
 [[files]]
-file = "config/axiom/.axiom.json.backup"
-hash = "5efdcc5754a291329f7d98ca352375fa1c5b89c460102493f672e26c0c01fbed"
-
-[[files]]
-file = "config/axiom/axiom.json"
-hash = "5efdcc5754a291329f7d98ca352375fa1c5b89c460102493f672e26c0c01fbed"
-
-[[files]]
-file = "config/axiom/imgui.ini"
-hash = "6e0df464fc094392e22cd3c9898eaa9a0a0508a54fdcc9fff8c640d107e94caa"
-
-[[files]]
 file = "config/azimuth-client.toml"
 hash = "c74cfa25fddf439d78dc58eee2c453a2dd66b2b5b80e67124f7eaad5ae7f6191"
 
