@@ -1330,7 +1330,7 @@ hash = "7e2e9a2fd2e40672b423540a0d52d616750d4a318fad6f94722741cf091b2787"
 
 [[files]]
 file = "config/scguns-common.toml"
-hash = "9e51c3429a5789ea7d8b2fa049c249ee8e84031921255fc5e38fad3bdc23009e"
+hash = "fd4556ea9cfc4c81d1977c8421e3ff6bc691d1235053fb1b4f80314a8aa33940"
 
 [[files]]
 file = "config/scguns-server.toml"
@@ -1450,7 +1450,7 @@ hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 
 [[files]]
 file = "config/structurify.json"
-hash = "a7707b51ef73318248d2fd0379bca65f273a32c229626b96925b8159d52bbd18"
+hash = "258d8d5558fcef2c526aaa200b88c4659b54bbd49df6f62d52a4995fc16d40d5"
 
 [[files]]
 file = "config/submarine_hull.json"
