@@ -1838,11 +1838,6 @@ hash = "caab0399294fca902849b8eb653f56840bc107d5dbd0b0cbaab3d60ca4cc01f9"
 metafile = true
 
 [[files]]
-file = "mods/colorwheel.pw.toml"
-hash = "3f99808dda6b83374cea1d478e2688c69af71a7381b176d0a7df50d219e44ca9"
-metafile = true
-
-[[files]]
 file = "mods/comforts.pw.toml"
 hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
@@ -2245,11 +2240,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
