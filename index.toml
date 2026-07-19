@@ -2238,6 +2238,11 @@ hash = "c8f17b808582f80a8afe90f44844ae83965afe6372c572ac5a27d595ad8c59b0"
 metafile = true
 
 [[files]]
+file = "mods/inv-view-forge.pw.toml"
+hash = "a40e68d8848a871a5d53ebbc5c73db8cc1dfe76273a6bcef2a0e0d4d8b9299d8"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
 metafile = true
