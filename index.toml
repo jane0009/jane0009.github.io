@@ -2673,6 +2673,11 @@ hash = "b9ceb0fa4707ced2e0467f334ce8b6cb2fd60c729b47aee065e2bb0d5b905189"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "2b964b0915bc00d23421068b395763928311a533099e351e5f78c047e040b4f7"
+metafile = true
+
+[[files]]
 file = "mods/scorched-guns-neoforged.pw.toml"
 hash = "46ccb3613d536a36b42f37c8ed3f28eff20a63f44bdd6b733e3bd6b75978fdad"
 metafile = true
