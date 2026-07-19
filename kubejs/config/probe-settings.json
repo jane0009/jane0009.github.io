@@ -1,0 +1,12 @@
+{
+    "probejs.fullScanMods": [
+        "minecraft",
+        "kubejs",
+        "neoforge",
+        "lootjs",
+        "ponderjs",
+        "morejs",
+        "kubejsable"
+    ],
+    "probejs.reset": false
+}
