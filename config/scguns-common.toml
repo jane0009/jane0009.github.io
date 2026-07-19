@@ -185,7 +185,7 @@
 		#Chance each night to schedule a progression raid for an eligible player.
 		# Default: 0.2
 		# Range: 0.0 ~ 1.0
-		nightlyRaidChance = 0.2
+		nightlyRaidChance = 0.0
 		#Minimum in-game days between automatic nightly raids per dimension.
 		# Default: 2
 		# Range: > 0

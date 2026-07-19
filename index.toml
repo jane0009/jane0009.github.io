@@ -1788,18 +1788,8 @@ hash = "d081b466ddf0c20397f7e282944dd0df7d359c0373eeaed8a390117a62bf838c"
 metafile = true
 
 [[files]]
-file = "mods/cbcperipheral.pw.toml"
-hash = "f816bb7867f0eac5f0506cb1d42da974c20b52bc189c37fddf0087f871df1baa"
-metafile = true
-
-[[files]]
 file = "mods/cc-graphics.pw.toml"
 hash = "7553f58a4108a0dbb28891cae8e84934df3e9d533214d0b53ac0af30a79cea33"
-metafile = true
-
-[[files]]
-file = "mods/cc-sable.pw.toml"
-hash = "253a414e73f57c890ae5e03f49517191267b1bef0a89252ae1221748cd0de4f9"
 metafile = true
 
 [[files]]
@@ -1893,6 +1883,11 @@ hash = "2b8c5286980b8d864085d02a6b2153cefa401a965833139ffac8e7661a322f7c"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked-forked.pw.toml"
+hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
+metafile = true
+
+[[files]]
 file = "mods/cpmsvcc.pw.toml"
 hash = "cddac002cb062f3c7335aa72912ccfb1dfca3a5d532d0499e41ea3dfeb2d2ecc"
 metafile = true
@@ -1949,12 +1944,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cc-total-logistics.pw.toml"
-hash = "498118d8d811270df4b778dfc2834ede888a3183b96ad1d9d0dfddcf56a38ed1"
-metafile = true
-
-[[files]]
-file = "mods/create-ccbr.pw.toml"
-hash = "2c0a8e956e3a1508d12544d59db0db04df6d88460dc56b80a1a8b4bdf1266005"
+hash = "0e8eb610e3fa9fc7d7897dd24ac43872ead64ddea9e6b5da2a2730d21892f2fd"
 metafile = true
 
 [[files]]
@@ -2073,11 +2063,6 @@ hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
 metafile = true
 
 [[files]]
-file = "mods/ecologics.pw.toml"
-hash = "9fe802c6e911ccd7117578a9fd92b0d1e1eb569c56535fadfbeedf8fe8045137"
-metafile = true
-
-[[files]]
 file = "mods/elysium-api.pw.toml"
 hash = "32ff99a6c2c2c645487765d642b806438d45829114a1864854e3a4b7189a988b"
 metafile = true
@@ -2173,11 +2158,6 @@ hash = "0d13e70b59a7f4623237f6b03e22368235d123030f36f18312fd20a8f7d2e459"
 metafile = true
 
 [[files]]
-file = "mods/fens-mmorpg-titles.pw.toml"
-hash = "ed1db62d522f238252f8e9fa6fd035657a8dacafc2f9e36b4bbfb19807c0d509"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
@@ -2263,11 +2243,6 @@ hash = "c8f17b808582f80a8afe90f44844ae83965afe6372c572ac5a27d595ad8c59b0"
 metafile = true
 
 [[files]]
-file = "mods/incendium.pw.toml"
-hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
-metafile = true
-
-[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
 metafile = true
@@ -2330,11 +2305,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
-metafile = true
-
-[[files]]
-file = "mods/jadens-nether-expansion.pw.toml"
-hash = "7de3c7486270c4cc6e2f3be3e32d40549a3b0802ce4161e8ed444b2845120fe7"
 metafile = true
 
 [[files]]
@@ -2453,11 +2423,6 @@ hash = "e42581d8eb65aa947dcbe6edb71b2082e84f31936b01f131758395d88dabc919"
 metafile = true
 
 [[files]]
-file = "mods/magic-from-the-east.pw.toml"
-hash = "92700ec309ad864b97c299e932cd2864a483af8a86d1485953cf4e47b9553edc"
-metafile = true
-
-[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "28d8aeaaa4e12098474b3028cf7dce0ef867de2f1a98fc6de2c224731e176fd3"
 metafile = true
@@ -2555,21 +2520,6 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "3e477c97729015ac6184c0b56cb148947b7c0dc5cca764336ee96719f05f05e6"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "fdaa22d49ee4987c2d0c012e24c7b44d50a653519767d18371e8d778c188f184"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "5a59ebe515dbf2b637ac23bedeb33e545675668a0a454c5d6edd4d207a458844"
-metafile = true
-
-[[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "413494b5ba534461e22545173a8cc6e98b04962a0ee9514498b830b99d4acabe"
 metafile = true
 
 [[files]]
@@ -2703,6 +2653,11 @@ hash = "179aab033baae257dbc270e5e81c67202b6533df97e50b33e7d9653187b0f71e"
 metafile = true
 
 [[files]]
+file = "mods/sable-dynamic-lights.pw.toml"
+hash = "282654c07a0b3f41387fbe990649148d26b3f9c7c895cd0b43652df3adc78e61"
+metafile = true
+
+[[files]]
 file = "mods/sable-weighted-create-deco.pw.toml"
 hash = "db5ecf915997147c3811e1118f0b31535c92e96fd92b84b4bae574f17089c142"
 metafile = true
@@ -2733,13 +2688,13 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
+file = "mods/selfexpression.pw.toml"
+hash = "6d910446affc1497995491ec9f0c42206403436ca238da2bbd0d25cd2a39ca85"
 metafile = true
 
 [[files]]
-file = "mods/server-chat-sync.pw.toml"
-hash = "c5fd50416e7cabd4c5c69cd527ab9d2d8f5adbb30046501e7340526e232b16de"
+file = "mods/serene-seasons.pw.toml"
+hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
 metafile = true
 
 [[files]]
@@ -2813,11 +2768,6 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
-file = "mods/spotlights-or-something.pw.toml"
-hash = "3cd14ed2c90f9b648f532eeb27b818e0fd99eb5f72b9771a289803b3191cc0a0"
-metafile = true
-
-[[files]]
 file = "mods/structurify.pw.toml"
 hash = "c85cdb8d54d62e994704bbc9de2dbb28a4d27fa6cf48515285d1ac41045f5ced"
 metafile = true
@@ -2855,11 +2805,6 @@ metafile = true
 [[files]]
 file = "mods/text-to-voice.pw.toml"
 hash = "ce68a88e103f9dbb926624ab401965e1b82fa65711a790f9e392dd5ddcf3c436"
-metafile = true
-
-[[files]]
-file = "mods/thaumon.pw.toml"
-hash = "1f6514189ad1e70bd5ea8702d78d27f54e1d682d5644b0b9187e9830f7a8ac7b"
 metafile = true
 
 [[files]]
