@@ -1743,8 +1743,13 @@ hash = "f9bc54d3fb8c268bec1f0e5d75818c825a1f83eaf26a6f90061cd4097a81c96f"
 metafile = true
 
 [[files]]
-file = "mods/backport-copper-age.pw.toml"
-hash = "61854b1ff0419be14d2a4fa1b70b382633e529a95b338c59fbd3f5c47ded96be"
+file = "mods/beltborne-lanterns-accessories-layer.pw.toml"
+hash = "d4b7f6cf00243e6963d28933424141debda012dbfc4e41d4954defac67b2156b"
+metafile = true
+
+[[files]]
+file = "mods/beltborne-lanterns.pw.toml"
+hash = "a3d64a9bc113d1bca287ee2c47d832685c8d4b8807032cecd8dfffd35a070709"
 metafile = true
 
 [[files]]
@@ -1880,11 +1885,6 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "2b8c5286980b8d864085d02a6b2153cefa401a965833139ffac8e7661a322f7c"
-metafile = true
-
-[[files]]
-file = "mods/cosmetic-armor-reworked-forked.pw.toml"
-hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
 metafile = true
 
 [[files]]
@@ -2840,6 +2840,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
+metafile = true
+
+[[files]]
+file = "mods/vanity.pw.toml"
+hash = "678ffbe44007654fa572af716c884f604a1368f23959f09740c8cf3701373186"
 metafile = true
 
 [[files]]
